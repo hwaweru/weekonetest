@@ -9,3 +9,7 @@ h3 {
   text-decoration: dotted;
   color: blueviolet;font-style: italic;text-decoration: underline;
 }
+body
+{
+  background-color: aqua;
+}
